@@ -1,4 +1,4 @@
-# hyuk.io
+# Vue Sample Todo App
 
 To start:
 
